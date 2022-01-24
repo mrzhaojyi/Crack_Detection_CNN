@@ -1,7 +1,7 @@
 # Crack_Detection_CNN
 
 
-# Use CNN from scratch
+## Use CNN from scratch
 
 
 ## Use pre-trained LeNet
