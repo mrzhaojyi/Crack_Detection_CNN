@@ -7,6 +7,8 @@
 
 
 
+Beside building the CNN from scratches, we can also solve this issue using the concept of transfer learning.
+
 ## Use pre-trained [LeNet](https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/)
 
 
